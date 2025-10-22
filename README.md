@@ -6,9 +6,9 @@ Forecasting International Airline Passenger Demand using Statistical Time Series
 Project Summary: A comprehensive analysis and statistical forecasting project aimed at predicting monthly international airline passenger volume. This solution demonstrates expertise in decomposing time series, achieving stationarity, and tuning SARIMA models to handle trend and complex seasonality.
 
 
-Key Technologies                      Primary Dataset                          Model Type                          Status
+Key Technologies                                           Primary Dataset                                                    Model Type                                   Status
 
-🐍 Python, Pandas, Statsmodels       🧑‍🤝‍🧑 International Airline Passengers      📊 SARIMA (Statistical Model)      ✅ Complete
+🐍 Python, Pandas, Statsmodels                           🧑‍🤝‍🧑 International Airline Passengers                                📊 SARIMA (Statistical Model)                ✅ Complete
 
 
 1. Project Overview 🌟
