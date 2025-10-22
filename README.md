@@ -128,7 +128,10 @@ The SARIMA model successfully captures the historical pattern, yielding a reliab
 💡 Exogenous Variables: Integrate relevant external data (e.g., GDP, fuel prices, historical global events) to build a SARIMAX model for improved accuracy.
 
 11. 👨‍💻 Author
-Lakshmi Bhavani Reddy lakshmibhavani071200@gmail.com | https://www.linkedin.com/in/lakshmibhavanireddy37/
-Data Science Enthusiast passionate about healthcare applications of machine learning.
+
+Lakshmi Bhavani Reddy 
+
+lakshmibhavani071200@gmail.com | https://www.linkedin.com/in/lakshmibhavanireddy37/
+
 
 This project demonstrates the practical application of machine learning in forecasting, showcasing end-to-end data science workflow from data preprocessing to model deployment-ready implementation.
